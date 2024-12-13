@@ -1,0 +1,203 @@
+[
+  {
+    "positivity": "-5",
+    "ID": "201",
+    "description": "Ta ei oska lugeda"
+  },
+  {
+    "positivity": "-5",
+    "ID": "202",
+    "description": "Ta on väga aeglane ja ebaproduktiivne"
+  },
+  {
+    "positivity": "-5",
+    "ID": "203",
+    "description": "Kirjutab vigast koodi, mis enamasti ei tööta"
+  },
+  {
+    "positivity": "-4",
+    "ID": "204",
+    "description": "Kavatseb õpingud katkestada"
+  },
+  {
+    "positivity": "-4",
+    "ID": "205",
+    "description": "Loll nagu lauajalg"
+  },
+  {
+    "positivity": "-4",
+    "ID": "206",
+    "description": "Väga laisk ja natuke loll"
+  },
+  {
+    "positivity": "-4",
+    "ID": "207",
+    "description": "Ta mõtlemine on nagu kompass pimedas - ei suuna kunagi õigele teele"
+  },
+  {
+    "positivity": "-4",
+    "ID": "208",
+    "description": "Ei suuda aru saada teiste kirjutatud koodist"
+  },
+  {
+    "positivity": "-4",
+    "ID": "209",
+    "description": "Valetab oma teadmiste kohta"
+  },
+  {
+    "positivity": "-4",
+    "ID": "210",
+    "description": "Tal puudub loogiline mõtlemine"
+  },
+  {
+    "positivity": "-4",
+    "ID": "211",
+    "description": "Tema kood on nagu sudoku, millel on igas reas neli ühte"
+  },
+  {
+    "positivity": "-4",
+    "ID": "212",
+    "description": "Te ei oska sama programmeerimiskeelt"
+  },
+  {
+    "positivity": "-3",
+    "ID": "213",
+    "description": "Teeb asju viimasel hetkel"
+  },
+  {
+    "positivity": "-3",
+    "ID": "214",
+    "description": "Nõuab tungivalt kõige keerulisemat raamistikku"
+  },
+  {
+    "positivity": "-3",
+    "ID": "215",
+    "description": "Vihkab programmeerimist"
+  },
+  {
+    "positivity": "-3",
+    "ID": "216",
+    "description": "Täielik pohhuist"
+  },
+  {
+    "positivity": "-3",
+    "ID": "217",
+    "description": "Ei võta kunagi oma tegude eest vastutust"
+  },
+  {
+    "positivity": "-3",
+    "ID": "218",
+    "description": "Viriseb pidevalt"
+  },
+  {
+    "positivity": "-3",
+    "ID": "219",
+    "description": "Ei pea kokkulepetest kinni"
+  },
+  {
+    "positivity": "-3",
+    "ID": "220",
+    "description": "Ta on vastutustundetu"
+  },
+  {
+    "positivity": "-3",
+    "ID": "221",
+    "description": "Ei oska bugisid lahendada"
+  },
+  {
+    "positivity": "-3",
+    "ID": "222",
+    "description": "Arvab endast liiga palju"
+  },
+  {
+    "positivity": "-3",
+    "ID": "223",
+    "description": "Ei ole teemaga absoluutselt eelnevalt kokkupuutunud"
+  },
+  {
+    "positivity": "-3",
+    "ID": "224",
+    "description": "Ta on jube isekas"
+  },
+  {
+    "positivity": "-3",
+    "ID": "225",
+    "description": "Tal on suva"
+  },
+  {
+    "positivity": "-2",
+    "ID": "226",
+    "description": "Tal pole üldse aega"
+  },
+  {
+    "positivity": "-2",
+    "ID": "227",
+    "description": "Lihtsalt nõme inimene ja ta onu on mafiooso"
+  },
+  {
+    "positivity": "-2",
+    "ID": "228",
+    "description": "Halb suhtleja"
+  },
+  {
+    "positivity": "-2",
+    "ID": "229",
+    "description": "Väga pessimistlik"
+  },
+  {
+    "positivity": "-2",
+    "ID": "230",
+    "description": "Ülbitseb kogu aeg"
+  },
+  {
+    "positivity": "-2",
+    "ID": "231",
+    "description": "Reisib pidevalt ringi"
+  },
+  {
+    "positivity": "-2",
+    "ID": "232",
+    "description": "Valis kogemata vale eriala"
+  },
+  {
+    "positivity": "-2",
+    "ID": "233",
+    "description": "Jutustab koosolekutel ainult USA poliitikast"
+  },
+  {
+    "positivity": "-1",
+    "ID": "234",
+    "description": "Kõik ajab teda nutma"
+  },
+  {
+    "positivity": "-1",
+    "ID": "235",
+    "description": "Tal on halb internet"
+  },
+  {
+    "positivity": "-1",
+    "ID": "236",
+    "description": "Tal on pidevalt halb tuju"
+  },
+  {
+    "positivity": "-1",
+    "ID": "237",
+    "description": "Sa pole teda kunagi varem kohanud"
+  },
+  {
+    "positivity": "-1",
+    "ID": "238",
+    "description": "Deklareeris kogemata vale aine"
+  },
+  {
+    "positivity": "-1",
+    "ID": "239",
+    "description": "Hilineb alati"
+  },
+  {
+    "positivity": "-1",
+    "ID": "240",
+    "description": "Elab kaugel ja tal pole autot"
+  }
+
+]

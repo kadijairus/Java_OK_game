@@ -1,0 +1,202 @@
+[
+  {
+    "positivity": "-5",
+    "ID": "301",
+    "description": "Parandab teiste tehtut valeks"
+  },
+  {
+    "positivity": "-5",
+    "ID": "302",
+    "description": "Teeb ainult plagiaati"
+  },
+  {
+    "positivity": "-5",
+    "ID": "303",
+    "description": "Ilma ChatGPT-ta ei suuda ühtegi rida kirjutada"
+  },
+  {
+    "positivity": "-5",
+    "ID": "304",
+    "description": "Kinnitab merge requeste kontrollimata"
+  },
+  {
+    "positivity": "-5",
+    "ID": "305",
+    "description": "Tema häiriv käitumine lõhub tiimi"
+  },
+  {
+    "positivity": "-4",
+    "ID": "306",
+    "description": "Teeb teisi maha"
+  },
+  {
+    "positivity": "-4",
+    "ID": "307",
+    "description": "Ei suuda kunagi plaane täita"
+  },
+  {
+    "positivity": "-4",
+    "ID": "308",
+    "description": "Teeb kõik kurvaks ja kurjaks"
+  },
+  {
+    "positivity": "-4",
+    "ID": "309",
+    "description": "Teil puudub ühine suhtluskeel"
+  },
+  {
+    "positivity": "-3",
+    "ID": "310",
+    "description": "Tal pole uue arvuti jaoks raha, vana ei tööta"
+  },
+  {
+    "positivity": "-3",
+    "ID": "311",
+    "description": "Ta on alati haige"
+  },
+  {
+    "positivity": "-3",
+    "ID": "312",
+    "description": "Ei tee üksinda tööd"
+  },
+  {
+    "positivity": "-3",
+    "ID": "313",
+    "description": "Hoolib ainult enda ülesannetest, teistega ei arvesta"
+  },
+  {
+    "positivity": "-2",
+    "ID": "314",
+    "description": "Tal on kolm väikest last ja täiskohaga töö"
+  },
+  {
+    "positivity": "-2",
+    "ID": "315",
+    "description": "On rahul madala hindega"
+  },
+  {
+    "positivity": "-2",
+    "ID": "316",
+    "description": "Magab liiga palju"
+  },
+  {
+    "positivity": "-2",
+    "ID": "317",
+    "description": "Ta plaanib lähipäevadel teise linna kolida"
+  },
+  {
+    "positivity": "-2",
+    "ID": "318",
+    "description": "Tiimis nagu vale pusletükk - ei sobitu kuhugi"
+  },
+  {
+    "positivity": "-1",
+    "ID": "319",
+    "description": "Tahab olla alati tähelepanu keskpunktis"
+  },
+  {
+    "positivity": "-1",
+    "ID": "320",
+    "description": "Ta haiseb, koosolekud on ebamugavad"
+  },
+  {
+    "positivity": "1",
+    "ID": "321",
+    "description": "Kõndiv õpik"
+  },
+  {
+    "positivity": "1",
+    "ID": "322",
+    "description": "Ergutab tiimi"
+  },
+  {
+    "positivity": "1",
+    "ID": "323",
+    "description": "Ta hääl kõlab väga meeldivalt"
+  },
+  {
+    "positivity": "1",
+    "ID": "324",
+    "description": "Jagab igal kohtumisel maiustusi"
+  },
+  {
+    "positivity": "2",
+    "ID": "325",
+    "description": "Nagu elavv kalender - kõik on kontrolli all"
+  },
+  {
+    "positivity": "2",
+    "ID": "326",
+    "description": "Täielik päikesekiir"
+  },
+  {
+    "positivity": "2",
+    "ID": "327",
+    "description": "Tema motiveeritus innustab ka teisi"
+  },
+  {
+    "positivity": "2",
+    "ID": "328",
+    "description": "Elab, et teisi aidata"
+  },
+  {
+    "positivity": "3",
+    "ID": "329",
+    "description": "Tema hea tuju on nakkav"
+  },
+  {
+    "positivity": "3",
+    "ID": "330",
+    "description": "Oskab näha probleeme teise nurga alt"
+  },
+  {
+    "positivity": "3",
+    "ID": "331",
+    "description": "See projekt on ainuke asi, mis lahutab teda diplomist"
+  },
+  {
+    "positivity": "3",
+    "ID": "332",
+    "description": "On juba viis aastat arendajana töötanud"
+  },
+  {
+    "positivity": "3",
+    "ID": "333",
+    "description": "Tema koodi stiil on peaaegu veatu"
+  },
+  {
+    "positivity": "4",
+    "ID": "334",
+    "description": "Imeinimene, kes ei vaja und"
+  },
+  {
+    "positivity": "4",
+    "ID": "335",
+    "description": "Teeb alati kõik juba enne tähtaega ära"
+  },
+  {
+    "positivity": "4",
+    "ID": "336",
+    "description": "Java on tema emakeel"
+  },
+  {
+    "positivity": "4",
+    "ID": "337",
+    "description": "Merge requeste vaadates annab kasulikke kommentaare"
+  },
+  {
+    "positivity": "5",
+    "ID": "338",
+    "description": "Töötab üli-inimliku kiirusega"
+  },
+  {
+    "positivity": "5",
+    "ID": "339",
+    "description": "Tal on ajamasin, saab projektile kulutada piiramatu arvu tunde"
+  },
+  {
+    "positivity": "5",
+    "ID": "340",
+    "description": "Lahendab 100% bugid"
+  }
+]

@@ -1,0 +1,46 @@
+plugins {
+    id 'java-library'
+}
+
+group = 'ee.taltech'
+version = '3.1-26.04'
+
+repositories {
+    mavenCentral()
+    maven { url "https://oss.sonatype.org/content/repositories/releases/" }
+    maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+    mavenLocal()
+}
+
+dependencies {
+    implementation group: 'com.esotericsoftware', name: 'kryonet', version: '2.22.0-RC1'
+    implementation group: 'com.badlogicgames.gdx', name: 'gdx-ai', version: '1.8.1'
+    implementation 'org.json:json:20231013'
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+// AI is added to main source set to be accessible from server.
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main/java']
+        }
+    }
+}
+
+test {
+    useJUnitPlatform()
+}
+
+jar {
+    manifest {
+        attributes('Main-Class': 'ee.taltech.okgame.server.GameServer')
+    }
+
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    from {
+        configurations.runtimeClasspath.collect {it.isDirectory() ? it : zipTree(it)}
+    }
+
+}
