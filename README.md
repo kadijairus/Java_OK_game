@@ -250,9 +250,9 @@ PositiveCardsJson.json - used in first two rows.
 See under "Data flow".
 
 
-## Project Status: In Development
+## About the project
 
-This project is currently in development as part of "ITI0301 Tarkvaraarenduse projekt" course
-at Tallinn University of Technology.
+This project was developed during "ITI0301 Tarkvaraarenduse projekt" course
+at Tallinn University of Technology in 2024.
 
 If you can't start the game, please contact in Discord: KadiJ (kadijairus) or Kelli (kelli_48450) or Ketlin (ketlin2). 
